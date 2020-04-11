@@ -7,3 +7,8 @@
 
 ## Image files
 *.jpeg
+
+## Dataset files
+*.zip
+*.txt
+*.jpg
