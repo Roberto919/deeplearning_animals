@@ -1,3 +1,5 @@
+
+
 ##Actumlogos - Deep Learning: final project
 
 
@@ -22,7 +24,6 @@ This repository was created to collaborate in the development of a deep learning
 
 | **Number** |   **Animal**    |                       **Data source**                        | **Responsible for collecting images for dataset** |
 | :--------: | :-------------: | :----------------------------------------------------------: | :-----------------------------------------------: |
-|    ---     |       ---       |                             ---                              |                        ---                        |
 |     1      |      Lion       | Wild-Anim Dataset [link](https://www.ai.rug.nl/~emmanuel/wild-animdataset.html) |                       Aaron                       |
 |     2      |      Wolf       |                      Wild-Anim Dataset                       |                      Roberto                      |
 |     3      |      Bear       |                      Wild-Anim Dataset                       |                      Germán                       |
