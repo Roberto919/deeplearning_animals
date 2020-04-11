@@ -12,3 +12,6 @@
 *.zip
 *.txt
 *.jpg
+*.jpeg
+*.png
+translate.py

@@ -1,4 +1,10 @@
-## This repository was created to collaborate in the development of a deep learning neural network to classify 8 different types of animals
+## Actumlogos - Deep Learning: final project
+
+
+
+### Objective
+
+This repository was created to collaborate in the development of a deep learning neural network to classify 8 different types of animals
 
 
 
@@ -24,6 +30,6 @@
 |     5      |     Leopard     |                      Wild-Anim Dataset                       |                       Aaron                       |
 |     6      |     Bufalo      |                       *To be defined*                        |                      German                       |
 |     7      | *To be defined* |                       *To be defined*                        |                       Aaron                       |
-|     8      | *To be defined* |                       *To be defined*                        |                      Roberto                      |
-|     9      | *To be defined* |                       *To be defined*                        |                      Roberto                      |
+|     8      |     Spider      | Kaggle: Animals-10 [link](https://www.kaggle.com/alessiocorrado99/animals10) |                      Roberto                      |
+|     9      |      Horse      |                      Kaggle: Animals-10                      |                      Roberto                      |
 
